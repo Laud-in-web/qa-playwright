@@ -12,16 +12,20 @@ Ce projet a pour but de mettre en place une base de tests automatisés avec [Pla
 - **VS Code**
 - **GitHub**
 
-## 📋 Étapes à venir
-
-- [ ] Initialiser le projet avec `npm init` et installer Playwright
-- [ ] Créer un premier test sur une landing page publique
-- [ ] Mettre en place une structure de tests réutilisable
-- [ ] Ajouter un fichier `.gitignore` adapté
-- [ ] Documenter la procédure de lancement des tests dans le README
-- [ ] Ajouter une configuration GitHub Actions (CI) pour les tests
-- [ ] Évaluer la couverture des tests
-- [ ] Rédiger un rapport d’audit simple en complément
-
-## 🗃️ Structure prévisionnelle
+## Plan de Progression
+1. **Introduction à Playwright** :
+   - Installation et configuration de Playwright.
+   - Premier test simple.
+2. **Tests de navigation** :
+   - Tester la navigation entre différentes pages.
+3. **Interactions avec la page** :
+   - Simuler des clics sur des boutons et soumettre des formulaires.
+4. **Tests de performance** :
+   - Mesurer les temps de chargement des pages.
+5. **Tests complexes** :
+   - Gérer les fichiers (upload/download).
+6. **Optimisation des tests** :
+   - Structuration et réutilisation des tests.
+7. **Documentation et rapport** :
+   - Générer des rapports de tests.
 
